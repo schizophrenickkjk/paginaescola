@@ -20,4 +20,11 @@
     display: inline-block;
     margin: 0x 16px;
     font-size: 24px;
+    justify-content: space-between;
+}
+
+.cabecalho-lista {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
